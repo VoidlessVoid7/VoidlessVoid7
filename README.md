@@ -9,14 +9,14 @@
 
 ## Languages and Tools
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/react/react-original.svg" width="50px" alt="" align="left" >
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/javascript/javascript-original.svg" width="50px" alt="" align="left" >
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/python/python-original.svg" width="50px" alt="" align="left" >
-<img src="https://simpleicons.org/icons/cplusplus.svg" width="50px" alt="" align="left" >
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/html5/html5-original.svg" width="50px" alt="" align="left" >
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/css3/css3-original.svg" width="50px" alt="" align="left" >
-<img src="https://cdn.svgporn.com/logos/django.svg" width="50px" alt="" align="left" >
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/redux/redux-original.svg" width="50px" alt="" align="left" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png" width="50px" alt="" align="left" >
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/bootstrap/bootstrap-plain.svg" width="50px" alt="" align="left" >
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/c/c-original.svg" width="50px" alt="" align="left" >
+[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/react/react-original.svg" width="50px" alt="" align="left" >](https://reactjs.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/javascript/javascript-original.svg" width="50px" alt="" align="left" >](https://www.javascript.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/python/python-original.svg" width="50px" alt="" align="left" >](https://www.python.org/)
+[<img src="https://simpleicons.org/icons/cplusplus.svg" width="50px" alt="" align="left" >](http://www.cplusplus.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/html5/html5-original.svg" width="50px" alt="" align="left" >](https://devdocs.io/html/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/css3/css3-original.svg" width="50px" alt="" align="left" >](https://devdocs.io/css/)
+[<img src="https://cdn.svgporn.com/logos/django.svg" width="50px" alt="" align="left" >](https://www.djangoproject.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/redux/redux-original.svg" width="50px" alt="" align="left" >](https://redux.js.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png" width="50px" alt="" align="left" >](https://www.tensorflow.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/bootstrap/bootstrap-plain.svg" width="50px" alt="" align="left" >](https://getbootstrap.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/c/c-original.svg" width="50px" alt="" align="left" >]()
