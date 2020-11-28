@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/react/react-original.svg" width="50px" alt="" align="left" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/javascript/javascript-original.svg" width="50px" alt="" align="left" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/python/python-original.svg" width="50px" alt="" align="left" >
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/cplusplus/cplusplus-original.svg" width="50px" alt="" align="left" >
+<img src="https://simpleicons.org/icons/cplusplus.svg" width="50px" alt="" align="left" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/html5/html5-original.svg" width="50px" alt="" align="left" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/css3/css3-original.svg" width="50px" alt="" align="left" >
 <img src="https://cdn.svgporn.com/logos/django.svg" width="50px" alt="" align="left" >
