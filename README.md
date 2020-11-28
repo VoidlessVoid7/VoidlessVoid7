@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/cplusplus/cplusplus-original.svg" width="50px" alt="" align="left" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/html5/html5-original.svg" width="50px" alt="" align="left" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/css3/css3-original.svg" width="50px" alt="" align="left" >
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/django/django-original.svg" width="50px" alt="" align="left" >
+<img src="https://cdn.svgporn.com/logos/django.svg" width="50px" alt="" align="left" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/redux/redux-original.svg" width="50px" alt="" align="left" >
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png" width="50px" alt="" align="left" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/bootstrap/bootstrap-plain.svg" width="50px" alt="" align="left" >
