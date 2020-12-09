@@ -20,6 +20,6 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png" width="50px" alt="" align="left" >](https://www.tensorflow.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/bootstrap/bootstrap-plain.svg" width="50px" alt="" align="left" >](https://getbootstrap.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50px" alt="" align="left" >](https://nodejs.org/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px" alt="" align="left" >](https://git-scm.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px" alt="" align="left" >](https://git-scm.com/)<br />
 [<img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width="50px" alt="" align="left" >](https://firebase.google.com/)
 
