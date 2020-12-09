@@ -22,4 +22,4 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50px" alt="" align="left" >](https://nodejs.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px" alt="" align="left" >](https://git-scm.com/)
 [<img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width="50px" alt="" align="left" >](https://firebase.google.com/)
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/c/c-original.svg" width="50px" alt="" align="left" >
+
