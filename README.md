@@ -9,10 +9,9 @@
 
 ## Languages 
 
-
-[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/javascript/javascript-original.svg" width="50px" alt="" align="left" >](https://www.javascript.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/python/python-original.svg" width="50px" alt="" align="left" >](https://www.python.org/)
 [<img src="https://simpleicons.org/icons/cplusplus.svg" width="50px" alt="" align="left" >](http://www.cplusplus.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/python/python-original.svg" width="50px" alt="" align="left" >](https://www.python.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/javascript/javascript-original.svg" width="50px" alt="" align="left" >](https://www.javascript.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/html5/html5-original.svg" width="50px" alt="" align="left" >](https://devdocs.io/html/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/css3/css3-original.svg" width="50px" alt="" align="left" >](https://devdocs.io/css/)
 <br />
