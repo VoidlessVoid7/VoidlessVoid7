@@ -14,6 +14,8 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/javascript/javascript-original.svg" width="50px" alt="" align="left" >](https://www.javascript.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/html5/html5-original.svg" width="50px" alt="" align="left" >](https://devdocs.io/html/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/css3/css3-original.svg" width="50px" alt="" align="left" >](https://devdocs.io/css/)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/bd6bd577fa3ece5b171d2c3ba1d8704593187acf/icons/go.svg" width="50px" alt="" align="left" >](https://golang.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/672px-Bash_Logo_black_and_white_icon_only.svg.png" width="50px" alt="" align="left" >](https://www.gnu.org/software/bash/)
 <br />
 <br />
 ## Tools and Libraries
